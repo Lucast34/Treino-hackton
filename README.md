@@ -1,6 +1,6 @@
 # Treino-hackton
 
-Scrum Master Back-End:
+Scrum Master Back-End: <a href="https://github.com/Lucast34">Guilherme França Fernandes<a>
 
 Dev Back-End:
 
