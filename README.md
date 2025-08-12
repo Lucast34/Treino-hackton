@@ -10,4 +10,4 @@ Scrum Master Front-End: <a href="https://github.com/GuilFranca">Guilherme Franç
 
 Dev Front-End:
 
-Dev Front-End:
+Dev Front-End: <a href ="https://github.com/oBrittop">Gustavo Ribeiro Brito
