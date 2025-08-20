@@ -2,7 +2,7 @@
 
 Scrum Master Back-End: <a href="https://github.com/Lucast34">Lucas<a>
 
-Dev Back-End:
+Dev Back-End: <a href="https://github.com/fellran">Felipe<a>
 
 Dev Back-End:
 
